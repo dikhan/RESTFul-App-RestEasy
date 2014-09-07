@@ -1,7 +1,7 @@
 RESTFul-App-RestEasy
 ====================
 
-Second chapter of the tutorial REST Java Architecture
+Fourth chapter of the tutorial REST Java Architecture
 
 Check out the whole tutorial and more details concerning this specific chapter at:
 
